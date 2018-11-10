@@ -13,5 +13,6 @@ A project for Udacity's Front-End Web Developer Nanodegree Program by Eva "Pornu
 
 ## References
 1. This project used the starter code that Udacity provided.
+2. Map API from https://www.mapbox.com/
 3. The project used [Atom Code Editor](https://atom.io/)
 4. Special thanks to MATTHEW CRANFORD's [Walkthrough](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-4-service-workers/) on Service worker
